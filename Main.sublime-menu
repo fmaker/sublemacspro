@@ -31,7 +31,7 @@
               {
                 "command": "open_file", "args":
                 {
-                  "file": "${packages}/sublemacspro/Default.sublime-keymap",
+                  "file": "${packages}/sublemacspro/Default.sublime-keymap"
                 },
                 "caption": "Key Bindings - Default"
               },
